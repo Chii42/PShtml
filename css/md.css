@@ -9,8 +9,15 @@
 }
 #rightHeader {
 	float: right;
-	width: px;
+	height: 200px;
 }
+#img2{
+	position:relative;
+	top:-250px;
+	right:-680px;
+	display:block;
+}
+
 #topLink {
 	border-radius: 16px;
 	background-color: #2B8CCC;
@@ -35,6 +42,7 @@
 	font-size: 1.2em;
 	color: #5C5A53;
 	font-family: Charlemagne Std;
+	margin-top: 50px;
 }
 #Nav ul li    {
 	float: left;
